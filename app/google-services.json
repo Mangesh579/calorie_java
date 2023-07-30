@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409620582352",
+    "project_id": "mad-lab-bd152",
+    "storage_bucket": "mad-lab-bd152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409620582352:android:ccad7b81f33c296783b3d5",
+        "android_client_info": {
+          "package_name": "com.example.caloriecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409620582352-l3oqurorhu737k6ggh5s3rp4nqvicf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDXeIy9_QibEkMPxlGD1yTQITxVreGang"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409620582352-l3oqurorhu737k6ggh5s3rp4nqvicf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
